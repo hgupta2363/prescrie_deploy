@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "823fb4670f274a7921043b31f193fda7",
+    "revision": "073c818fe2fc75f727e5be465f98671d",
     "url": "/prescrie_deploy/index.html"
   },
   {
-    "revision": "9986ce178cf7922320a7",
+    "revision": "234296db94fbe59f4b32",
     "url": "/prescrie_deploy/static/css/2.de424728.chunk.css"
   },
   {
-    "revision": "cc126051641abf045d36",
-    "url": "/prescrie_deploy/static/css/main.d90c3288.chunk.css"
+    "revision": "644247bd4955779dcb21",
+    "url": "/prescrie_deploy/static/css/main.29f007aa.chunk.css"
   },
   {
-    "revision": "9986ce178cf7922320a7",
-    "url": "/prescrie_deploy/static/js/2.a2621c42.chunk.js"
+    "revision": "234296db94fbe59f4b32",
+    "url": "/prescrie_deploy/static/js/2.4b50f45f.chunk.js"
   },
   {
     "revision": "0348515facc10e9e9f2e179333751860",
-    "url": "/prescrie_deploy/static/js/2.a2621c42.chunk.js.LICENSE.txt"
+    "url": "/prescrie_deploy/static/js/2.4b50f45f.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "cc126051641abf045d36",
-    "url": "/prescrie_deploy/static/js/main.29833147.chunk.js"
+    "revision": "644247bd4955779dcb21",
+    "url": "/prescrie_deploy/static/js/main.266e88e7.chunk.js"
   },
   {
     "revision": "0b11bd4e0d5dcc69ac27",
